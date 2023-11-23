@@ -2,7 +2,7 @@
 
 ## 👋 Hello World, I'm Zuwa.
 
-🤝 I am enthusiastic about continuous learning, personal development, and collaboration on data analysis and data science projects. 
+🤝 I am enthusiastic about continuous learning, personal development, and collaboration on data analysis and data science projects.<br> 
 Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zuwa)
 
 ### ❓ Profile
