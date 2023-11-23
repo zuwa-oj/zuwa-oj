@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 ## 👋 Hello World, I'm Zuwa.
 
@@ -49,7 +49,7 @@ Analyzed the relationship between bike availability and nearby Points of Interes
 Focused on ETL using PG Admin and EDA with emphasis on data cleaning, transformation and analysis for extraction of insights using advanced SQL queries. The project involved preliminary data examination, importing to pgAdmin, data cleansing, and extracting insights through SQL queries. Key findings included identifying the USA as the top revenue-generating country, and observing a pattern where the highest performing product category was the most popular across most of the cities and countries.
 
     
-##### 🚀 Thanks for your time, and once again you can reach me on [LinkedIn](https://www.linkedin.com/in/zuwa)
+ 🚀 Thanks for your time, and once again you can reach me on [LinkedIn](https://www.linkedin.com/in/zuwa)
 
 
 <!--
