@@ -46,10 +46,12 @@ I'm always excited to expand my skills and knowledge. Some of my current learnin
    Analyzed the relationship between bike availability and nearby Points of Interest (POIs) using CityBikes, Yelp, and Foursquare APIs, with a focus on the city of Dublin, Ireland. The process involved merging bike station data with POIs information, and building an OLS regression model using the statsmodel API in Python. Key findings suggested that POI counts from Yelp and Foursquare had limited statistical significance in predicting bike availability. Yelp API outperformed Foursquare in data detail and coverage. Challenges included API request limits and data processing time. Future goals include the use of a different types of models and inclusion of more categories in API request for POIs to enrich dataset.
 
 #### [SQL Ecommerce Data Analysis](https://github.com/zuwa-oj/lhl-sql-project) 
-   Focused on ETL using PG Admin and EDA with emphasis on data cleaning, transformation and analysis for extraction of insights using advanced SQL queries. The project involved preliminary data examination, importing to pgAdmin, data cleansing, and extracting insights through SQL queries. Key findings included identifying the USA as the top revenue-generating country, and observing a pattern where the highest performing product category was the most popular across most of the cities and countries.
+   Focused on ETL using PG Admin and EDA with emphasis on data cleaning, transformation and analysis for extraction of insights using advanced SQL queries. The project involved preliminary data examination, importing to pgAdmin, data cleansing, and extracting insights through SQL queries. Key findings included identifying the USA as the top revenue-generating country, and observing a pattern where the highest performing product category was the most popular across most of the cities and countries.  
+   
+   
 
-<br>    
-##### 🚀 Thanks for your time, and once again you can reach me on [LinkedIn](https://www.linkedin.com/in/zuwa)
+    
+#### 🚀 Thanks for your time, and once again you can reach me on [LinkedIn](https://www.linkedin.com/in/zuwa)
 
 
 <!--
